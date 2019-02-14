@@ -1,8 +1,6 @@
 # Hands on Lab
 
-  **Tema:** Introducción a Puppet
-
-**Duración:** ?
+**Tema:** Introducción a Puppet
 
 **Descripción**
 
@@ -12,7 +10,7 @@
 - emplear términos comunes en el desarrollo de proyectos de Infra con Puppet.
 - crear modulo de puppet.
 - recrear caso de integración con CVS: Git.
--  
+ 
 
 **Pre-condiciones**
 
